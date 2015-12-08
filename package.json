@@ -1,0 +1,22 @@
+{
+  "name": "node_modules_practice",
+  "version": "1.0.0",
+  "description": "You're commissioned to create an application that generates automated responses for the end user, depending on the day of the week. While creating your application you think to yourself, \"This application might be something I can use in the future! I think I will make a module for the auto response functionality.\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IanSmith89/node_modules_practice.git"
+  },
+  "author": "Ian Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IanSmith89/node_modules_practice/issues"
+  },
+  "homepage": "https://github.com/IanSmith89/node_modules_practice#readme",
+  "dependencies": {
+    "dateformat": "^1.0.12"
+  }
+}

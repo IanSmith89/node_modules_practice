@@ -6,7 +6,7 @@ exports.getResponse = function(str) {
     case 'Monday':
       return 'Ugh, Mondays...';
     case 'Tuesday':
-      return "Wow, it's Tuesday";
+      return "Wow, it's Tuesday.";
     case 'Wednesday':
       return 'Hump day!!!';
     case 'Thursday':
